@@ -52,6 +52,7 @@ Attacker motivation = Profit from attack - Attack cost
 Defender motivation = Maximal damage cost - Security cost
 ```
 So you should never spend for security more than your maximal potential damage in case of a hacker's success. Tricky point here is to calculate damage cost and profit from attack. But we will discuss how we can try to calculate them later. 
+
 Last but not least point is that  ~~life is hard~~ additionally you can not pay for cybersecurity once and forget about it. This will not work. Cybersecurity is like electricity, you should pay for every day.
 
 *"Why?"*
