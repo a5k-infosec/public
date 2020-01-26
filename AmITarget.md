@@ -36,9 +36,9 @@ Oh, this is my favorite topic.
 
 *"Who needs my Facebook/Twitter/LinkedIn account?"*
 
-As it is - nobody needs. But your account is the best instrument for sending "Fishing messages" to your contacts. For example link to infected resource. Or even better - sending link to malware which hackers recommend to install from your name. "Fishing messages" is one of the most popular attack vectors today because our current technologies don't provide any serious protection from it.
+As it is - nobody needs. But your account is the best instrument for sending Phishing messages to your contacts. For example link to infected resource. Or even better - sending link to malware which hackers recommend to install from your name. Phishing messages is one of the most popular attack vectors today because our current technologies don't provide any serious protection from it.
 ### Your mail account
-This is the most boring theme. Sure, again "Fishing mails" is there but additionally, there is sending SPAM from your account. Also, this is can be used for attack against two-factor authentification for your critical account which uses two-factor authentication via mail. Also, all systems which can reset your password just by sending mail with "Reset password link" also are compromised.
+This is the most boring theme. Sure, again Phishing mails is there but additionally, there is sending SPAM from your account. Also, this is can be used for attack against two-factor authentification for your critical account which uses two-factor authentication via mail. Also, all systems which can reset your password just by sending mail with "Reset password link" also are compromised.
 
 ### Ok, I 'm in panic. What can I do?
 First of all, don't panic this is not helping you at all.
